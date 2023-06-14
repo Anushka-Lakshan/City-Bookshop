@@ -13,7 +13,7 @@ Java swing UI / UX design and Development
 
 ## Features
 
-- Vitualize Inventory data (Charts)
+- Visualize Inventory data (Charts)
 - Manage Book stocks (Add,Edit or delete)
 - Search Books (Based on Name, Price, Category)
 - Manage Book Category
