@@ -1,0 +1,27 @@
+This Java Ant Project is developed using.. 
+
+Apache Netbeans IDE 15
+Java(TM) SE Runtime Environment 19+36-2238
+
+
+* All the externel libraries used for this Project is included in project folder
+
+* Project is using SQLite(3.34) as a database solution (DB file is included in project folder) 
+
+-------------   Login credentials   --------------------------
+
+*Manager
+
+UserName : Anushka
+Password : Anu123
+
+UserName : Kavinda
+Password : Kavi123
+
+*Cashier
+
+UserName : Lakshan
+Password : Laka123
+
+UserName : Elon
+Password : Musk123
